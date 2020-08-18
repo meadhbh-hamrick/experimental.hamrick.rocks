@@ -6,4 +6,4 @@ WebStorm, GitHub and AWS. The idea is I want to have a simple
 web site hosted on GitHub (also where the repo exists) which uses
 AWS lambdas to provide a (very) simple API.
 
-Testing. This is just another test.
+Replacing a test line with a second test line.
